@@ -50,7 +50,7 @@ do{
         
     }
     
-}while(options != 'A' && options!='B'&& options!='C');
+}while(options != 'A' && options!='B' && options!='C');
         
      
      return "";
