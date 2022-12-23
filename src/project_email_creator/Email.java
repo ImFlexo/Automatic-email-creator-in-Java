@@ -15,6 +15,7 @@ public class Email {
     private int defaultpasswordlength = 8;
     private String company_name = "companyname.co";
 
+    
     public Email(String firstName, String lastName) {
         this.firstName = firstName;
         this.lastName = lastName;
