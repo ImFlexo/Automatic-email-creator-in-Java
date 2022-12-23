@@ -72,10 +72,12 @@ do{
         return  password;
     }
 
+    
     public String getPassword() {
         return  password;
     }
 
+    
     public String showInfo() {
         System.out.println("");
         return "Display Name: " + firstName +" "+ lastName +
