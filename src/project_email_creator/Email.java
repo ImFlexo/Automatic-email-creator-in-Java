@@ -1,4 +1,3 @@
-
 package project_email_creator;
 
 import java.util.Random;
