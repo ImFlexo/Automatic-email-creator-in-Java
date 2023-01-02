@@ -11,8 +11,6 @@ public class Project_Email_creator {
         
         Scanner sc = new Scanner(System.in);
         
-       
-        
         System.out.print("First Name: ");
       String first_name = sc.next();
       
